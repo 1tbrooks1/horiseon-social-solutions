@@ -14,7 +14,5 @@ Refactor code on Horiseon website to fit clients needs
 https://1tbrooks1.github.io/horiseon-social-solutions/
 
 ## Screenshots
-* ![Screenshot](.Develop/assets/images/horisean-1.jpeg?raw=true"Screenshot")
-* ![Screenshot](.Develop/assets/images/horisean-2.jpeg?raw=true"Screenshot")
-
-
+- ![Screenshot](./Develop/assets/images/final-webpage-1.jpeg?raw=true"Screenshot")
+- ![Screenshot](./Develop/assets/images/final-webpage-2.jpeg?raw=true"Screenshot")
