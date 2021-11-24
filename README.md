@@ -14,5 +14,5 @@ Refactor code on Horiseon website to fit clients needs
 https://1tbrooks1.github.io/horiseon-social-solutions/
 
 ## Screenshots
-- ![Alt text](./Develop/assets/images/final-webpage-1.jpg?raw=true "final-webpage-1")
-- ![Alt text](./Develop/assets/images/final-webpage-2.jpg?raw=true "final-webpage-2")
+- ![Screenshot](final-webpage-1.JPG)
+- ![Screenshot](final-webpage-2.JPG)
